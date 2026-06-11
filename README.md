@@ -82,6 +82,7 @@ and Erlang/OTP.
 |-                 |-             | -                |-
 | `ubuntu-22.04`   | 24.2 - 28    | x86_64, arm64    | ✅
 | `ubuntu-24.04`   | 24.3 - 28    | x86_64, arm64    | ✅
+| `ubuntu-26.04`   | 26.0 - 29    | x86_64, arm64    | ✅
 | `windows-2019`   | 21\* - 25    | x86_64, x86      | ✅
 | `windows-2022`   | 21\* - 28    | x86_64, x86      | ✅
 | `windows-2025`   | 21\* - 28    | x86_64, x86      | ✅
@@ -107,6 +108,7 @@ uses that to download assets:
 |-                   |-
 | `ubuntu22`         | `ubuntu-22.04`
 | `ubuntu24`         | `ubuntu-24.04`
+| `ubuntu26`         | `ubuntu-26.04`
 | `win19`            | `windows-2019`
 | `win22`            | `windows-2022`
 | `win25`            | `windows-2025`
